@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MouseOutfit
+- 👀 I’m interested in Programming, psychology and science.
+- 🌱 I’m currently learning HTLM and CS. 
